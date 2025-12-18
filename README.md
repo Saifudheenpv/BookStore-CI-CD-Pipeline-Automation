@@ -787,10 +787,6 @@ mvn clean package -DskipTests
 
 ---
 
-## 📊 Monitoring & Logging
-
-
-
 ## 🔧 Troubleshooting
 
 <details>
