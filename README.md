@@ -789,29 +789,7 @@ mvn clean package -DskipTests
 
 ## 📊 Monitoring & Logging
 
-### Application Monitoring
 
-```mermaid
-graph LR
-    A[📱 Application] --> B[📊 Spring Actuator]
-    B --> C[/health]
-    B --> D[/metrics]
-    B --> E[/info]
-    
-    C --> F[Health Status]
-    D --> G[Performance Metrics]
-    E --> H[Application Info]
-    
-    style A fill:#6DB33F,color:#fff
-    style B fill:#0078D4,color:#fff
-```
-
-**Available Endpoints:**
-- `/actuator/health` - Application health status
-- `/actuator/metrics` - JVM and application metrics
-- `/actuator/info` - Application information
-
----
 
 ## 🔧 Troubleshooting
 
