@@ -1111,7 +1111,7 @@ If you find this project helpful, please consider:
 
 Have questions or need help? Reach out!
 
-📧 **Email**: your.email@example.com  
+📧 **Email**: mesaifudheenpv@gmail.com  
 💬 **LinkedIn**: [Connect with me](https://linkedin.com/in/saifudheenpv07)
 🐙 **GitHub**: [Follow for more projects](https://github.com/Saifudheenpv)
 
